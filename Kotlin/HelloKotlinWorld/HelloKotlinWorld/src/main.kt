@@ -1,5 +1,5 @@
 fun main(){
-    println("Whats your name?")
+    println("What's your name?")
     val name= readLine()
     println("Hello $name!")
 }
