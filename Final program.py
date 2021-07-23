@@ -1,7 +1,4 @@
-# Michael Curtis
-# Program final
-# Coms-170-02: Fall 2018
-# Due: 12/17/2018
+
 # Program final- truck rental 
 #-------------------------------------------------------------------
 # Variable                Type       Purpose
