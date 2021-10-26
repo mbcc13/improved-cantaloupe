@@ -125,7 +125,6 @@ def Classification(c1, c2 ,c3, c4):
 
 main()
 # Add Output of finale program as Comments 
-##========= RESTART: C:\Users\Michael\OneDrive\Python\Final program.py =========
 ##================================================
 ##Truck Rental Calculator
 ##================================================
